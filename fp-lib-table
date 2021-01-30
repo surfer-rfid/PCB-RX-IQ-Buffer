@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LogicBuffer)(type KiCad)(uri "$(KIPRJMOD)/LogicBuffer.pretty")(options "")(descr ""))
+)

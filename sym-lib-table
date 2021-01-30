@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LogicBuffer)(type Legacy)(uri ${KIPRJMOD}/library/LogicBuffer.lib)(options "")(descr ""))
+)
